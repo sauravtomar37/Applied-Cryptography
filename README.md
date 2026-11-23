@@ -1,8 +1,6 @@
 # Applied-Cryptography
 AES Based Secure Database
 
-# AES Secure Database
-
 ## 1. Project Description
 
 AES Secure Database is a Python-based secure database system that protects sensitive patient information using **AES-256-GCM encryption** and SQLite.
